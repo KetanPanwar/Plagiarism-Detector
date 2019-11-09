@@ -1,0 +1,31 @@
+This is reminiscent of Galileo’s argument: the observer lets go of some
+objects which remain in a state of uniform motion (with respect to him!).
+This behavior is independent of their chemical or physical nature (as above,
+air resistance is ignored). The observer (Wile), as long as he confines his/her
+observations to his/her immediate vicinity (that is, as long as he/she does
+not look down) has the right to interpret his state as ‘at rest’. Just as
+Galileo argued that experiments in a closed box cannot determine the state
+of uniform motion of the box, Einstein argued that experiments in a freely
+falling small2 closed box cannot be used to determine whether the box is in
+the grip of a gravitational force or not.
+Why would this be true? The answer can be traced back to the way in
+which gravity affects bodies. Remember (see Sect. 4.3.3) that the quantity
+we called m (the mass) played two different roles in Newton’s equations.
+One is to determine, given a force, what the acceleration of the body would
+be: F = ma (the inertial mass). The other is to determine the intensity
+with which the said body experiences a gravitational force: F = mMG/r2
+(the gravitational mass). As mentioned before these two quantities need not
+be equal: the first “job” of m is to tell a body how much to accelerate given
+any force, a kick, an electric force (should the body be charged), etc. The
+second “job” tells the body how much of the gravitational force should it
+experience and also determines how strong a gravitational force it generates.
+But, in fact, both numbers are equal (to a precision of ten parts per billion).
+The whole of the General Theory of Relativity rests on this postulate,
+and will fail if one can find a material for which the inertial and gravitational masses
+have different values. One might think that this represents a defect of the theory,
+its Achilles heel. In one sense this is true since a single experiment has the potential
+of demolishing the whole of the theory (people have tried...hard, but all experiments have
+validated the principle of equivalence). On the other hand one can argue that a theory
+which is based on a minimum of postulates is a better theory (since there are less assumptions
+involved in its construction); from this point of view the General Theory of
+Relativity is a gem.

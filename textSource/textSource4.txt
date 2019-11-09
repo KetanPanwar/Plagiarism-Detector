@@ -1,0 +1,25 @@
+Consider the following experiment: a person is put in a room-size box high
+above the moon (chosen because there is no air and hence no air friction)
+with a bunch of measuring devices. This box is then taken high above the
+lunar surface and then let go: the box is then freely falling. The question
+is now, can the observer determine whether he/she is falling or whether
+he/she is in empty space unaffected by external forces (of course the answer
+is supposed to come before the box hits the surface). The answer to that is
+a definite NO! The observer can do experiments by looking at how objects
+move when initially at rest and when given a kick, he/she will find that they
+appear to move as is there were no gravitational forces at all! Similarly any
+experiment in physics, biology, etc. done solely inside the box will be unable
+to determine whether the box is freely falling or in empty space.
+Why is that? Because of the equality of the gravitational and inertial
+masses. All objects are falling together and are assumed to be rather close
+to each other (the box is not immense) hence the paths they will follow will
+be essentially the same for each of them. So if the observer lets go of an
+apple, the apple and the observer follow essentially the same trajectory, and
+this implies that the observer will not see the apple move with respect to
+him. In fact, if we accept the priniciple of equivalence, nothing can be done
+to determine the fact that the observer is falling towards the Moon, for this
+can be done only if we could find some object which behaved differently from
+all the rest, and this can happen only if its gravitational and inertial masses
+are different. The principle of equivalence then implies that the observer
+will believe that he/she is an inertial frame of reference...until disabused of
+the notion by the crash with the surface.

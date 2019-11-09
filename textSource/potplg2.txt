@@ -1,0 +1,39 @@
+Why would this be true? The answer can be traced back to the way in
+which gravity affects bodies. Remember (see Sect. 4.3.3) that the quantity
+we called m (the mass) played two different roles in Newton’s equations.
+One is to determine, given a force, what the acceleration of the body would
+be: F = ma (the inertial mass). The other is to determine the intensity
+with which the said body experiences a gravitational force: F = mMG/r2
+(the gravitational mass). As mentioned before these two quantities need not
+be equal: the first “job” of m is to tell a body how much to accelerate given
+any force, a kick, an electric force (should the body be charged), etc. The
+second “job” tells the body how much of the gravitational force should it
+experience and also determines how strong a gravitational force it generates.
+But, in fact, both numbers are equal (to a precision of ten parts per billion).
+The whole of the General Theory of Relativity rests on this postulate,
+and will fail if one can find a material for which the inertial and gravitational masses
+have different values. One might think that this represents a defect of the theory,
+its Achilles heel. In one sense this is true since a single experiment has the potential
+of demolishing the whole of the theory (people have tried...hard, but all experiments have
+validated the principle of equivalence). On the other hand one can argue that a theory
+which is based on a minimum of postulates is a better theory (since there are less assumptions
+involved in its construction); from this point of view the General Theory of
+Relativity is a gem.
+
+Why is that? Because of the equality of the gravitational and inertial
+masses. All objects are falling together and are assumed to be rather close
+to each other (the box is not immense) hence the paths they will follow will
+be essentially the same for each of them. So if the observer lets go of an
+apple, the apple and the observer follow essentially the same trajectory, and
+this implies that the observer will not see the apple move with respect to
+him. In fact, if we accept the priniciple of equivalence, nothing can be done
+to determine the fact that the observer is falling towards the Moon, for this
+can be done only if we could find some object which behaved differently from
+all the rest, and this can happen only if its gravitational and inertial masses
+are different. The principle of equivalence then implies that the observer
+will believe that he/she is an inertial frame of reference...until disabused of
+the notion by the crash with the surface.
+
+General relativity also predicts the existence of gravitational waves, which have
+since been observed directly by the physics collaboration LIGO. In addition, general relativity is
+the basis of current cosmological models of a consistently expanding universe.

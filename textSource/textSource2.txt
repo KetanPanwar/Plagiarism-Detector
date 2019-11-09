@@ -1,0 +1,22 @@
+Two objects exert a force of attraction on one another known as "gravity."
+Sir Isaac Newton quantified the gravity between two objects when he formulated
+his three laws of motion. The force tugging between two bodies depends on how
+massive each one is and how far apart the two lie. Even as the center of the 
+Earth is pulling you toward it (keeping you firmly lodged on the ground), your
+center of mass is pulling back at the Earth. But the more massive body barely 
+feels the tug from you, while with your much smaller mass you find yourself firmly
+rooted thanks to that same force. Yet Newton's laws assume that gravity is an innate
+force of an object that can act over a distance.
+
+Albert Einstein, in his theory of special relativity, determined that the laws of
+physics are the same for all non-accelerating observers, and he showed that the speed
+of light within a vacuum is the same no matter the speed at which an observer travels.
+As a result, he found that space and time were interwoven into a single continuum known
+as space-time. Events that occur at the same time for one observer could occur at 
+different times for another.
+
+As he worked out the equations for his general theory of relativity, Einstein realized
+that massive objects caused a distortion in space-time. Imagine setting a large body in
+the center of a trampoline. The body would press down into the fabric, causing it to dimple.
+A marble rolled around the edge would spiral inward toward the body, pulled in much the
+same way that the gravity of a planet pulls at rocks in space. 

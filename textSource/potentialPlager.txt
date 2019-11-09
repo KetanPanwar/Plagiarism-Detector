@@ -1,0 +1,22 @@
+General relativity (GR, also known as the general theory of relativity or GTR) is
+the geometric theory of gravitation published by Albert Einstein in 1915 and the
+current description of gravitation in modern physics.
+General relativity generalizes special relativity and Newton's law of universal gravitation,
+providing a unified description of gravity as a geometric property of space and time, or spacetime.
+In particular,the curvature of spacetime is directly related to the energy and momentum of whatever
+matter and radiation are present. The relation is specified by the Einstein field equations,
+a system of partial differential equations.
+This is reminiscent of Galileo’s argument: the observer lets go of some
+objects which remain in a state of uniform motion (with respect to him!).
+Albert Einstein, in his theory of special relativity, determined that the laws of
+physics are the same for all non-accelerating observers, and he showed that the speed
+of light within a vacuum is the same no matter the speed at which an observer travels.
+As a result, he found that space and time were interwoven into a single continuum known
+as space-time. Events that occur at the same time for one observer could occur at 
+different times for another.
+Why would this be true? The answer can be traced back to the way in
+which gravity affects bodies. Remember (see Sect. 4.3.3) that the quantity
+we called m (the mass) played two different roles in Newton’s equations.
+The whole of the General Theory of Relativity rests on this postulate,
+and will fail if one can find a material for which the inertial and gravitational masses
+have different values.
